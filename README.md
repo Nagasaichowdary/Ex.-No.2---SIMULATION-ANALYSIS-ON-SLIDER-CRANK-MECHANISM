@@ -45,9 +45,10 @@
 
 ## Output
 
+![empd ex 1](https://github.com/Nagasaichowdary/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/155174528/8e0479b7-3758-4180-b91b-9efee67aa228)
 
-### Name:
-### Register Number: 
+### Name:P.Aditya Naga  Sai
+### Register Number: 212223110036
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
